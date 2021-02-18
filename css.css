@@ -1,0 +1,121 @@
+body{
+	background: url(fondo.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+.i{
+	 font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: monospace;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #A05909;
+    text-align:center;
+    word-spacing: 6px
+}
+.f1{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:40px;
+	left:10%;
+	height:400px;
+	width:450px;
+	border-radius:20px;
+}
+.n1{
+		background-color:lightblue;
+	font-family:arial;
+	position:absolute;
+	top:80px;
+	left:17%;
+	height:80px;
+	width:300px;
+	border-radius:20px;
+}
+.i1{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:210px;
+	left:26%;
+	height:60px;
+	width:200px;
+	border-radius:20px;
+}
+.ing1{
+		background-color:;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:38%;
+	height:60px;
+	width:100px;
+	border-radius:20px;
+}
+.e{
+	 font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family: monospace;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    color: #A05909;
+    text-align:center;
+    word-spacing: 6px
+}
+.f2{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:40px;
+	left:55%;
+	height:400px;
+	width:450px;
+	border-radius:20px;
+}
+.n2{
+		background-color:lightblue;
+	font-family:arial;
+	position:absolute;
+	top:80px;
+	left:17%;
+	height:80px;
+	width:300px;
+	border-radius:20px;
+}
+.i2{
+	background-color:;
+	font-family:arial;
+	position:absolute;
+	top:210px;
+	left:26%;
+	height:60px;
+	width:200px;
+	border-radius:20px;
+}
+.eli1{
+		background-color:;
+	font-family:arial;
+	position:absolute;
+	top:300px;
+	left:38%;
+	height:60px;
+	width:100px;
+	border-radius:20px;
+}
+.res1{
+		background-color:;
+	font-family:arial;
+	position:absolute;
+	top:450px;
+	left:-41%;
+	height:80px;
+	width:200px;
+	border-radius:20px;
+}
